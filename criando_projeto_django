@@ -1,0 +1,3 @@
+django-admin startproject forumhub
+cd forumhub
+django-admin startapp forum
