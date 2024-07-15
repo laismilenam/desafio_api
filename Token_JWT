@@ -1,0 +1,5 @@
+POST /auth/token/
+{
+  "username": "yourusername",
+  "password": "yourpassword"
+}
